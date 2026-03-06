@@ -1,0 +1,17 @@
+{
+    "agents": [
+      {
+        "id": "my-agent",
+        "gatewayAgentId": "main",
+        "name": "My Agent",
+        "emoji": "🤖",
+        "host": "127.0.0.1",
+        "port": 8080,
+        "token": "6fc0ec13f0ac0f892620c0ae97620db3b5158c7122d4933c9e6e1fa6ec292e5a",
+        "workspace": "/path/to/agent/workspace"
+      }
+    ],
+    "pollIntervalMs": 15000,
+    "hostMetricsIntervalMs": 30000
+  }
+  

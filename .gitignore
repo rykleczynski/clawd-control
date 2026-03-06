@@ -1,6 +1,5 @@
 # Secrets & local config
 auth.json
-agents.json
 
 # Dependencies
 node_modules/
